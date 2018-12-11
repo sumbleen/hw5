@@ -1,0 +1,2 @@
+** ERROR: 'W' is unknown response function type
+** FATAL ERROR: '-stim_times 1': don't understand basis function model 'W' [nopt=13]
